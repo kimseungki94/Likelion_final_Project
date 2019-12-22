@@ -2,7 +2,7 @@
 
 Setting for Django
 
-pip install django
+pip install django<br>
 pip install djangorestframework
 pip install django-cors-headers
 python manage.py makemigrations
