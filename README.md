@@ -1,15 +1,15 @@
 # final_Project
 
-Setting for Django
+Setting for Django<br><br>
 
 pip install django<br>
-pip install djangorestframework
-pip install django-cors-headers
-python manage.py makemigrations
-python manage.py migrate
-python manage.py runserver
+pip install djangorestframework<br>
+pip install django-cors-headers<br>
+python manage.py makemigrations<br>
+python manage.py migrate<br>
+python manage.py runserver<br>
 
-Setting for react
+Setting for react<br><br>
 
-npm install axios
-npm install @material-ui/core
+npm install axios<br>
+npm install @material-ui/core<br>
