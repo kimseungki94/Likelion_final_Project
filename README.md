@@ -7,7 +7,7 @@ python manage.py makemigrations<br>
 python manage.py migrate<br>
 python manage.py runserver<br>
 
-# Setting for react<br>
+# Setting for React<br>
 
 npm install axios<br>
 npm install @material-ui/core<br><br><br>
