@@ -1,5 +1,3 @@
-# final_Project<br>
-
 # Setting for Django<br>
 
 pip install django<br>
@@ -14,4 +12,4 @@ python manage.py runserver<br>
 npm install axios<br>
 npm install @material-ui/core<br><br><br>
 
-# Made By Likelion
+@Made By Likelion
